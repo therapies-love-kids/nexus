@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="25.0.3" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.0.4" pages="3">
   <diagram name="der" id="RPsb3uCewAngF1J4b816">
     <mxGraphModel dx="548" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -254,18 +254,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4l0uCJGfBpZCcxWWnDIQ" name="fluxogramas">
-    <mxGraphModel dx="794" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1619" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bDfbt4PfeWdUFQf9A1Sy-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Georgia;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="420" y="20" width="360" height="640" as="geometry" />
+          <mxGeometry x="-800" y="20" width="360" height="640" as="geometry" />
         </mxCell>
         <mxCell id="bDfbt4PfeWdUFQf9A1Sy-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=11;" parent="1" source="ovFZkRIMeVOwqTXIJUZR-1" target="dhmx-og4R7e3X8sbZr28-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ovFZkRIMeVOwqTXIJUZR-1" value="Paciente chega à clínica" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=11;fontFamily=Georgia;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="480" y="40" width="80" height="40" as="geometry" />
+          <mxGeometry x="-740" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dhmx-og4R7e3X8sbZr28-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontColor=default;labelBackgroundColor=none;fontSize=11;" parent="1" source="dhmx-og4R7e3X8sbZr28-2" target="dhmx-og4R7e3X8sbZr28-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -276,15 +276,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dhmx-og4R7e3X8sbZr28-2" value="&lt;font&gt;Já possui cadastro? &lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=11;fontFamily=Georgia;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="480" y="120" width="80" height="80" as="geometry" />
+          <mxGeometry x="-740" y="120" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dhmx-og4R7e3X8sbZr28-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontColor=default;labelBackgroundColor=none;fontSize=11;" parent="1" source="dhmx-og4R7e3X8sbZr28-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="320" as="targetPoint" />
+            <mxPoint x="-700" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dhmx-og4R7e3X8sbZr28-8" value="&lt;font&gt;Preenchimento dos dados&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;labelBackgroundColor=none;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="480" y="240" width="80" height="40" as="geometry" />
+          <mxGeometry x="-740" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dhmx-og4R7e3X8sbZr28-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=11;" parent="1" source="dhmx-og4R7e3X8sbZr28-14" target="dhmx-og4R7e3X8sbZr28-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -303,37 +303,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dhmx-og4R7e3X8sbZr28-14" value="Tem convênio?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=11;fontFamily=Georgia;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="480" y="320" width="80" height="80" as="geometry" />
+          <mxGeometry x="-740" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dhmx-og4R7e3X8sbZr28-16" value="Processo de cadastro é encerrado" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=11;fontFamily=Georgia;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="480" y="600" width="80" height="40" as="geometry" />
+          <mxGeometry x="-740" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bDfbt4PfeWdUFQf9A1Sy-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=11;" parent="1" source="dhmx-og4R7e3X8sbZr28-17" target="bDfbt4PfeWdUFQf9A1Sy-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dhmx-og4R7e3X8sbZr28-17" value="&lt;font&gt;Geração do contrato&lt;/font&gt; simples" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;labelBackgroundColor=none;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="480" y="440" width="80" height="40" as="geometry" />
+          <mxGeometry x="-740" y="440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bDfbt4PfeWdUFQf9A1Sy-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=11;" parent="1" source="bDfbt4PfeWdUFQf9A1Sy-2" target="dhmx-og4R7e3X8sbZr28-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bDfbt4PfeWdUFQf9A1Sy-2" value="Assinatura do contrato" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;labelBackgroundColor=none;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="480" y="520" width="80" height="40" as="geometry" />
+          <mxGeometry x="-740" y="520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bDfbt4PfeWdUFQf9A1Sy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Georgia;fontSize=11;" parent="1" source="bDfbt4PfeWdUFQf9A1Sy-5" target="bDfbt4PfeWdUFQf9A1Sy-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="720" y="540" />
+              <mxPoint x="-500" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bDfbt4PfeWdUFQf9A1Sy-5" value="&lt;font&gt;Geração do contrato particular&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;labelBackgroundColor=none;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="680" y="440" width="80" height="40" as="geometry" />
+          <mxGeometry x="-540" y="440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bDfbt4PfeWdUFQf9A1Sy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Georgia;fontSize=11;" parent="1" source="bDfbt4PfeWdUFQf9A1Sy-6" target="dhmx-og4R7e3X8sbZr28-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="640" y="460" />
+              <mxPoint x="-580" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -345,7 +345,7 @@
         <mxCell id="bDfbt4PfeWdUFQf9A1Sy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Georgia;fontSize=11;" parent="1" source="bDfbt4PfeWdUFQf9A1Sy-6" target="bDfbt4PfeWdUFQf9A1Sy-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="720" y="360" />
+              <mxPoint x="-500" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -355,13 +355,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bDfbt4PfeWdUFQf9A1Sy-6" value="O convênio é particular?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=11;fontFamily=Georgia;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="600" y="320" width="80" height="80" as="geometry" />
+          <mxGeometry x="-620" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bDfbt4PfeWdUFQf9A1Sy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Georgia;fontSize=11;" parent="1" source="dhmx-og4R7e3X8sbZr28-2" target="dhmx-og4R7e3X8sbZr28-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="160" />
-              <mxPoint x="440" y="620" />
+              <mxPoint x="-780" y="160" />
+              <mxPoint x="-780" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -370,23 +370,23 @@
             <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k_dyc30AEoWmXvBGqnqJ-1" value="&lt;b&gt;Cadastro de Paciente (TO BE)&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;labelBorderColor=none;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="420" y="660" width="360" height="20" as="geometry" />
+        <mxCell id="k_dyc30AEoWmXvBGqnqJ-1" value="&lt;div&gt;&lt;b&gt;Cadastro de Paciente (1.0)&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;labelBorderColor=none;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="-800" y="660" width="360" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2hAO6vvxWevik6CqKmo_-2" value="&lt;div&gt;&lt;b&gt;Legenda&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#97d077&quot;&gt;&lt;b&gt;Início&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;&lt;b&gt;Processo humano&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#a680b8&quot;&gt;&lt;b&gt;Processo do sistema&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#ffb570&quot;&gt;Decisão&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#ea6b66&quot;&gt;Fim&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="600" y="40" width="160" height="120" as="geometry" />
+          <mxGeometry x="-620" y="40" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="2hAO6vvxWevik6CqKmo_-30" value="&lt;b&gt;Cadastro e Contrato de Paciente (AS IS)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;labelBorderColor=none;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="20" y="660" width="360" height="20" as="geometry" />
+        <mxCell id="2hAO6vvxWevik6CqKmo_-30" value="&lt;b&gt;Cadastro de Paciente (2.0)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;labelBorderColor=none;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="-400" y="660" width="360" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2hAO6vvxWevik6CqKmo_-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Georgia;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="20" y="20" width="360" height="640" as="geometry" />
+          <mxGeometry x="-400" y="20" width="360" height="640" as="geometry" />
         </mxCell>
         <mxCell id="2hAO6vvxWevik6CqKmo_-33" value="Paciente chega à clínica" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=11;fontFamily=Georgia;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="80" y="40" width="80" height="40" as="geometry" />
+          <mxGeometry x="-340" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2hAO6vvxWevik6CqKmo_-34" value="Processo de cadastro é encerrado" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=11;fontFamily=Georgia;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="80" y="600" width="80" height="40" as="geometry" />
+          <mxGeometry x="-340" y="600" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
